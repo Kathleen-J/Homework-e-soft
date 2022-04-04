@@ -1,0 +1,130 @@
+/* links 1 */
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+.blue_link {
+  color: blue;
+  text-decoration: underline;
+}
+.blue_link:hover {
+  text-decoration: none;
+}
+
+.active_green:visited {
+  color: green
+}
+.active_green:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+.link_underline {
+  text-decoration: underline;
+}
+.link_underline:visited {
+  color: green;
+}
+.link_underline:hover {
+  color: blue;
+  text-decoration: none;
+}
+
+/* p */
+.p_underline {
+  text-decoration: underline;
+}
+
+.p_line_through {
+  text-decoration: line-through;
+}
+
+.p_overline {
+  text-decoration: overline;
+}
+
+/* border */
+.border_red {
+  border: 1px solid red;
+  width: 200px;
+  height: 200px;
+}
+
+.border_blue {
+  border: 1px dotted blue;
+  width: 500px;
+  height: 200px;
+}
+
+.border_green {
+  border: 1px dashed green;
+  width: 100px;
+  height: 100px;
+}
+
+.border_multicolor {
+  border: 1px solid black;
+  border-top-color: blue;
+  border-right-color: green;
+  border-bottom-color: red;
+  border-radius: 20px;
+  width: 500px;
+  height: 200px;
+}
+
+.border_radius_1 {
+  border: 1px dashed green;
+  border-radius: 10px 30px;
+  width: 300px;
+  height: 300px;
+}
+
+.border_radius_2 {
+  border: 1px dotted green;
+  border-radius: 10px 30px 50px 70px;
+  width: 300px;
+  height: 300px;
+}
+
+.circle {
+  border: 1px solid red;
+  border-radius: 50px;
+  width: 100px;
+  height: 100px;
+}
+
+/* links 2 */
+.link_1 {
+  color: blue;
+}
+.link_1:hover {
+  color: green;
+}
+
+.link_2 {
+  color: red;
+  text-decoration: underline;
+}
+.link_2:hover {
+  color: blue;
+  text-decoration: line-through;
+}
+
+.link_3 {
+  color: black;
+}
+.link_3:hover {
+  color: red;
+  text-decoration: overline;
+}
+
+/* margin */
+.last {
+  margin-bottom: 17px;
+  line-height: 17px;
+}

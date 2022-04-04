@@ -1,0 +1,10 @@
+body {
+  background-image: url(http://old.code.mu/exercises/css/osnovy-raboty-s-fonom-cherez-css-dlya-novichkov/2/fon1.jpg);
+  background-attachment: fixed;
+}
+
+p {
+  font-weight: bold;
+  width: 500px;
+  text-align: justify;
+}

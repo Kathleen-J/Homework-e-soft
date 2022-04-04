@@ -1,0 +1,22 @@
+body {
+ background-image: url(http://old.code.mu/exercises/css/osnovy-raboty-s-fonom-cherez-css-dlya-novichkov/5/space.jpg);
+ background-repeat: no-repeat;
+ background-color: black;
+}
+
+
+.text {
+ margin-top: 10px;
+ color: white;
+}
+
+h1 {
+ text-align: center;
+ width: 500px;
+}
+
+p {
+ width: 500px;
+ text-align: justify;
+ font-size: 20px;
+}

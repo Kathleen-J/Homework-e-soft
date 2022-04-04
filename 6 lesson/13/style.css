@@ -1,0 +1,31 @@
+.container {
+  width: 400px;
+  margin-top: 8px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 15px;
+}
+
+h1, h2 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  font: 16px/30px Arial;
+  text-align: justify;
+  text-indent: 40px;
+}
+
+b {
+  color: red;
+}
+
+i {
+  color: blue;
+}

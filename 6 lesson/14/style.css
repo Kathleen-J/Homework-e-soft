@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  color: red;
+  font-size: 32px;
+}
+
+h2 {
+  color: green;
+}
+
+ol {
+  color: red;
+}
+
+.html-red {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.css-blue, .script {
+  color: blue;
+  font-weight: bold;
+}
+
+.php-red, .js-red {
+  color: red;
+  font-size: 20px;
+}
+
+p {
+  font-size: 12px;
+  font-family: "Arial";
+  width: 500px;
+  line-height: 25px;
+  text-align: justify;
+}
+
+ul {
+  color: brown;
+  font-style: italic;
+  width: 500px;
+}
+
+span {
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
